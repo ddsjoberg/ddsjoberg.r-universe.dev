@@ -1,5 +1,9 @@
 [
     {
+        "package": "gtsummary",
+        "url": "https://github.com/ddsjoberg/gtsummary"
+    },
+    {
         "package": "bstfun",
         "url": "https://github.com/ddsjoberg/bstfun"
     },
