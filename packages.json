@@ -1,0 +1,22 @@
+[
+    {
+        "package": "bstfun",
+        "url": "https://github.com/ddsjoberg/bstfun"
+    },
+    {
+        "package": "hotfun",
+        "url": "https://github.com/ddsjoberg/hotfun"
+    },
+    {
+        "package": "dcurves",
+        "url": "https://github.com/ddsjoberg/dcurves"
+    },
+    {
+        "package": "rstudio.prefs",
+        "url": "https://github.com/ddsjoberg/rstudio.prefs"
+    },
+    {
+        "package": "sjofun",
+        "url": "https://github.com/ddsjoberg/sjofun"
+    }
+]
