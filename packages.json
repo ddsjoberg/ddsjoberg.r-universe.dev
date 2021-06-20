@@ -12,6 +12,10 @@
         "url": "https://github.com/ddsjoberg/dcurves"
     },
     {
+        "package": "broom.helpers",
+        "url": "https://github.com/larmarange/broom.helpers"
+    },
+    {
         "package": "rstudio.prefs",
         "url": "https://github.com/ddsjoberg/rstudio.prefs"
     },
