@@ -1,15 +1,18 @@
 [
     {
         "package": "gtsummary",
-        "url": "https://github.com/ddsjoberg/gtsummary"
+        "url": "https://github.com/ddsjoberg/gtsummary",
+        "branch": "*release"
     },
     {
         "package": "bstfun",
-        "url": "https://github.com/ddsjoberg/bstfun"
+        "url": "https://github.com/ddsjoberg/bstfun",
+        "branch": "*release"
     },
     {
         "package": "hotfun",
-        "url": "https://github.com/ddsjoberg/hotfun"
+        "url": "https://github.com/ddsjoberg/hotfun",
+        "branch": "*release"
     },
     {
         "package": "dcurves",
@@ -17,7 +20,8 @@
     },
     {
         "package": "broom.helpers",
-        "url": "https://github.com/larmarange/broom.helpers"
+        "url": "https://github.com/larmarange/broom.helpers",
+        "branch": "*release"
     },
     {
         "package": "rstudio.prefs",
