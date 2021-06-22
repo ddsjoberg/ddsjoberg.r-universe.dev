@@ -28,6 +28,10 @@
         "url": "https://github.com/ddsjoberg/rstudio.prefs"
     },
     {
+        "package": "starter",
+        "url": "https://github.com/ddsjoberg/starter"
+    },
+    {
         "package": "sjofun",
         "url": "https://github.com/ddsjoberg/sjofun"
     }
