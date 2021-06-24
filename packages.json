@@ -25,13 +25,11 @@
     },
     {
         "package": "rstudio.prefs",
-        "url": "https://github.com/ddsjoberg/rstudio.prefs",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/rstudio.prefs"
     },
     {
         "package": "starter",
-        "url": "https://github.com/ddsjoberg/starter",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/starter"
     },
     {
         "package": "sjofun",
