@@ -37,9 +37,5 @@
     {
         "package": "sjofun",
         "url": "https://github.com/ddsjoberg/sjofun"
-    },
-    {
-        "package": "dca.tutorial",
-        "url": "https://github.com/ddsjoberg/dca.tutorial"
     }
 ]
