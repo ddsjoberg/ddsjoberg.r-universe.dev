@@ -16,7 +16,8 @@
     },
     {
         "package": "dcurves",
-        "url": "https://github.com/ddsjoberg/dcurves"
+        "url": "https://github.com/ddsjoberg/dcurves",
+        "branch": "*release"
     },
     {
         "package": "broom.helpers",
