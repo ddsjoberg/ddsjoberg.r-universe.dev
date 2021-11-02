@@ -35,6 +35,10 @@
         "branch": "*release"
     },
     {
+        "package": "tidycmprsk",
+        "url": "https://github.com/MSKCC-Epi-Bio/tidycmprsk"
+    },
+    {
         "package": "sjofun",
         "url": "https://github.com/ddsjoberg/sjofun"
     }
