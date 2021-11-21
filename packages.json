@@ -20,6 +20,11 @@
         "branch": "*release"
     },
     {
+        "package": "ghe.utils",
+        "url": "https://github.com/ddsjoberg/ghe.utils",
+        "branch": "*release"
+    },
+    {
         "package": "broom.helpers",
         "url": "https://github.com/larmarange/broom.helpers",
         "branch": "*release"
