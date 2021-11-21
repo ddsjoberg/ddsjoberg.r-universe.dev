@@ -41,7 +41,8 @@
     },
     {
         "package": "tidycmprsk",
-        "url": "https://github.com/MSKCC-Epi-Bio/tidycmprsk"
+        "url": "https://github.com/MSKCC-Epi-Bio/tidycmprsk",
+        "branch": "*release"
     },
     {
         "package": "sjofun",
