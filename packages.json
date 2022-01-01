@@ -45,6 +45,11 @@
         "branch": "*release"
     },
     {
+        "package": "gt.doc.images",
+        "url": "https://github.com/ddsjoberg/gt.doc.images",
+        "branch": "*release"
+    },
+    {
         "package": "sjofun",
         "url": "https://github.com/ddsjoberg/sjofun"
     }
