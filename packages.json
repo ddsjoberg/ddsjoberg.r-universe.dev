@@ -52,5 +52,10 @@
     {
         "package": "sjofun",
         "url": "https://github.com/ddsjoberg/sjofun"
+    },
+        {
+        "package": "updater",
+        "url": "https://github.com/ddsjoberg/updater",
+        "branch": "*release"
     }
 ]
