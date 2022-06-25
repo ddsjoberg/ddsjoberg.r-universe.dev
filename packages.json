@@ -53,9 +53,14 @@
         "package": "sjofun",
         "url": "https://github.com/ddsjoberg/sjofun"
     },
-        {
+    {
         "package": "updater",
         "url": "https://github.com/ddsjoberg/updater",
+        "branch": "*release"
+    },
+    {
+        "package": "visR",
+        "url": "https://github.com/openpharma/visR",
         "branch": "*release"
     }
 ]
