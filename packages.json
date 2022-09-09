@@ -59,6 +59,11 @@
         "branch": "*release"
     },
     {
+        "package": "ggsurvfit",
+        "url": "https://github.com/ddsjoberg/ggsurvfit",
+        "branch": "*release"
+    },
+    {
         "package": "visR",
         "url": "https://github.com/openpharma/visR",
         "branch": "*release"
