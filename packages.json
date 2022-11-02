@@ -64,6 +64,10 @@
         "branch": "*release"
     },
     {
+        "package": "crc",
+        "url": "https://github.com/ddsjoberg/crc"
+    },
+    {
         "package": "visR",
         "url": "https://github.com/openpharma/visR",
         "branch": "*release"
