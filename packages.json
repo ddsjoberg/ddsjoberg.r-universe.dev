@@ -71,5 +71,10 @@
         "package": "visR",
         "url": "https://github.com/openpharma/visR",
         "branch": "*release"
+    },
+    {
+        "package": "affirm",
+        "url": "https://github.com/pcctc/affirm",
+        "branch": "*release"
     }
 ]
