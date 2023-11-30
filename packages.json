@@ -75,5 +75,13 @@
     {
         "package": "affirm",
         "url": "https://github.com/pcctc/affirm"
+    },
+    {
+        "package": "admiraldev",
+        "url": "https://github.com/pharmaverse/admiraldev"
+    },
+    {
+        "package": "pharmaversesdtm",
+        "url": "https://github.com/pharmaverse/pharmaversesdtm"
     }
 ]
