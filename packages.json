@@ -54,5 +54,9 @@
     {
         "package": "cardx",
         "url": "https://github.com/insightsengineering/cardx"
+    },
+    {
+        "package": "tfrmt",
+        "url": "https://github.com/GSK-Biostatistics/tfrmt"
     }
 ]
