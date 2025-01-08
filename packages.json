@@ -1,76 +1,39 @@
 [
     {
         "package": "gtsummary",
-        "url": "https://github.com/ddsjoberg/gtsummary",
-        "branch": "*release"
-    },
-    {
-        "package": "bstfun",
-        "url": "https://github.com/ddsjoberg/bstfun",
-        "branch": "*release"
-    },
-    {
-        "package": "hotfun",
-        "url": "https://github.com/ddsjoberg/hotfun",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/gtsummary"
     },
     {
         "package": "dcurves",
-        "url": "https://github.com/ddsjoberg/dcurves",
-        "branch": "*release"
-    },
-    {
-        "package": "ghe.utils",
-        "url": "https://github.com/ddsjoberg/ghe.utils",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/dcurves"
     },
     {
         "package": "broom.helpers",
-        "url": "https://github.com/larmarange/broom.helpers",
-        "branch": "*release"
+        "url": "https://github.com/larmarange/broom.helpers"
     },
     {
         "package": "rstudio.prefs",
-        "url": "https://github.com/ddsjoberg/rstudio.prefs",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/rstudio.prefs"
     },
     {
         "package": "starter",
-        "url": "https://github.com/ddsjoberg/starter",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/starter"
     },
     {
         "package": "tidycmprsk",
-        "url": "https://github.com/MSKCC-Epi-Bio/tidycmprsk",
-        "branch": "*release"
-    },
-    {
-        "package": "gt.doc.images",
-        "url": "https://github.com/ddsjoberg/gt.doc.images",
-        "branch": "*release"
-    },
-    {
-        "package": "sjofun",
-        "url": "https://github.com/ddsjoberg/sjofun"
+        "url": "https://github.com/MSKCC-Epi-Bio/tidycmprsk"
     },
     {
         "package": "updater",
-        "url": "https://github.com/ddsjoberg/updater",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/updater"
     },
     {
         "package": "ggsurvfit",
-        "url": "https://github.com/ddsjoberg/ggsurvfit",
-        "branch": "*release"
+        "url": "https://github.com/ddsjoberg/ggsurvfit"
     },
     {
         "package": "crc",
         "url": "https://github.com/ddsjoberg/crc"
-    },
-    {
-        "package": "visR",
-        "url": "https://github.com/openpharma/visR",
-        "branch": "*release"
     },
     {
         "package": "affirm",
@@ -83,5 +46,13 @@
     {
         "package": "pharmaversesdtm",
         "url": "https://github.com/pharmaverse/pharmaversesdtm"
+    },
+    {
+        "package": "cards",
+        "url": "https://github.com/insightsengineering/cards"
+    },
+    {
+        "package": "cardx",
+        "url": "https://github.com/insightsengineering/cardx"
     }
 ]
